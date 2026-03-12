@@ -1,4 +1,4 @@
- Plant Disease Predictor
+Plant Disease Detection using Deep Learning
 -------------------------
 A deep learning-based web application that predicts plant diseases from leaf images using a trained Convolutional Neural Network (CNN). The application allows users to upload an image of a plant leaf and receive a prediction of the plant type along with the confidence score.
 
